@@ -1,8 +1,6 @@
 # Über mich
 
-<small>(Dieses Repository hat den einzigen Zweck, ein paar Links und Infos über mich zu dokumentieren.)</small>
-
-Softwareentwickler aus Süddeutschland (Göppingen bei Stuttgart). Einige meiner Apps:
+Softwareentwickler aus Süddeutschland (Göppingen bei Stuttgart), Jahrgang 1973. Einige meiner Apps:
 
  - [Mein Stack-Overflow-Profil](https://stackoverflow.com/users/107625/uwe-keim?tab=profile)
  - [SharePoint Systemhaus Göppingen](https://www.zeta-software.de/index.html) (zwischen Stuttgart und Ulm)
@@ -13,3 +11,5 @@ Softwareentwickler aus Süddeutschland (Göppingen bei Stuttgart). Einige meiner
  - [Große Dateien kostenlos senden](https://www.zeta-uploader.com)
 
 Sehr stolzer Vater von [Felix](http://felix.bz) (2012) und [Ina](http://ina.la) (2014). Liebt das Laufen, das Klettern und Indisches Essen.  [Code-Project-Mitglied #235](https://www.codeproject.com/Members/uwe-keim). [Office-Webcam](https://uwe.co) von meiner Hündin Jara.
+
+_(Dieses Repository hat als einzigen Zweck, ein paar Links und Infos über mich zu dokumentieren.)_
