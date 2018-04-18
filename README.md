@@ -10,6 +10,6 @@ Softwareentwickler aus Süddeutschland (Göppingen bei Stuttgart), Jahrgang 1973
  - [Kostenlose, lizenzfreie Bilder](https://blog.zeta-producer.com/lizenzfreie-bilder/)
  - [Große Dateien kostenlos senden](https://www.zeta-uploader.com)
 
-Sehr stolzer Vater von [Felix](http://felix.bz) (2012) und [Ina](http://ina.la) (2014). Liebt das Laufen, das Klettern und Indisches Essen.  [Code-Project-Mitglied #235](https://www.codeproject.com/Members/uwe-keim). [Office-Webcam](https://uwe.co) von meiner Hündin Jara.
+Sehr stolzer Vater von [Felix](http://felix.bz) (2012) und [Ina](http://ina.la) (2014). Liebt Laufen, Klettern und Indisches Essen.  [Code-Project-Mitglied #235](https://www.codeproject.com/Members/uwe-keim). [Office-Webcam](https://uwe.co) von meiner Hündin Jara.
 
 _(Dieses Repository hat als einzigen Zweck, ein paar Links und Infos über mich zu dokumentieren.)_
